@@ -1,0 +1,31 @@
+# Виртуальные окружения Python
+venv/
+.venv/
+env/
+.env/
+
+# Python кэш
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Файлы компиляции
+*.pyd
+*.pyo
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Логи
+*.log
+
+# Временные файлы
+*.tmp
+*.temp
